@@ -12,8 +12,7 @@
 - 🌱 I’m currently learning YAML to improve my CI/CD pipeline configuration skills.
 - 👯 I’m looking to collaborate on open-source QA projects or automation tools for testers transitioning from manual to automated testing.
 - 💬 Ask me about **Selenium, JAVA, API Testing or how to get started in QA Automation.**
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
-- ⚡ Fun fact: I take my coffee as seriously as I take my test reports ☕📊 — freshly brewed and always consistent.
+- 📫 How to reach me: [[your.email@example.com](mailto:your.email@example.com](https://www.linkedin.com/in/patriciadsgomes/))
 
 ---
 
@@ -24,8 +23,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
 <!-- JavaScript -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<!-- C# -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
 <!-- Visual Studio 2022 (usa icono genérico de VS) -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>
 <!-- VS Code -->
@@ -40,42 +37,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/>
 <!-- Jenkins -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/>
-<!-- Microsoft Azure -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
 </p>
 
 ---
 
 ### 📦 Featured Projects
 
-🔹 [Automation Examples](https://github.com/karinerb19/Automation_examples)  
-
----
-
-### 🔥 Most Used Languages
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinerb19&layout=compact&theme=default" alt="Top Langs" />
-</p>
-
----
-
-### 🏅 Certifications
-
-| Certification        | Link                           | Issued Date |
-|:-----------------------|:--------------------------------|:-------------|
-| ISTQB® Advanced Level Test Automation Engineering |  [Official U.S. List of Certified & Credentialed Software Testers™ Profile](https://atsqa.org/certified-testers/profile/11ec543280ca4e3b81192d14304a726a) | Dec 2022    |
-
-<!--
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karinerb19&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
----
--->
-
+🔹 [Automation Examples] 
+https://github.com/patgomdatos/pgats-02-api/tree/main/test/desafio3
+https://github.com/patgomdatos/api-automation-restassured/blob/master/src/test/java/tests/BookingTest.java
+https://github.com/patgomdatos/automation-program/tree/master/src/test
 ---
 ### 🧠 Quote that inspires me (Frase que me inspira)
 

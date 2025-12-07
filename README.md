@@ -43,10 +43,10 @@
 
 ### 📦 Featured Projects
 
-🔹 [Automation Examples] 
-https://github.com/patgomdatos/pgats-02-api/tree/main/test/desafio3
-https://github.com/patgomdatos/api-automation-restassured/blob/master/src/test/java/tests/BookingTest.java
-https://github.com/patgomdatos/automation-program/tree/master/src/test
+🔹 https://github.com/patgomdatos/pgats-02-api/tree/main/test/desafio3
+🔹 https://github.com/patgomdatos/api-automation-restassured/blob/master/src/test/java/tests/BookingTest.java
+🔹 https://github.com/patgomdatos/automation-program/tree/master/src/test
+
 ---
 ### 🧠 Quote that inspires me (Frase que me inspira)
 

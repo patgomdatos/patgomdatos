@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning YAML to improve my CI/CD pipeline configuration skills.
 - 👯 I’m looking to collaborate on open-source QA projects or automation tools for testers transitioning from manual to automated testing.
 - 💬 Ask me about **Selenium, JAVA, API Testing or how to get started in QA Automation.**
-- 📫 How to reach me: [[your.email@example.com](mailto:your.email@example.com](https://www.linkedin.com/in/patriciadsgomes/))
+- 📫 How to reach me: (https://www.linkedin.com/in/patriciadsgomes/))
 
 ---
 
